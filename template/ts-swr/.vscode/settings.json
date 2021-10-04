@@ -44,5 +44,7 @@
     "source.organizeImports": false,
     "source.fixAll.eslint": true
   },
-  "cSpell.words": [],
+  "cSpell.words": [
+    "pokeapi"
+  ],
 }
